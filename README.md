@@ -8,23 +8,32 @@ movile and desktop App maker, machine learning, image recognition, basics on UI/
 *<A simple mortal that have different personal interests such as music, videogames and social media as hobbies aside of work.>*
 
 ## What I Know?
-Between the core technologies that I domain there are:
+Main tecnhologies use:
 
 [![Javascript](https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML-FFFFFF?style=flat-square&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)](https://www.mongodb.com/)
+[![NodeJS](https://img.shields.io/badge/NodeJS-233056?style=flat-square&logo=nodedotjs&logoColor=339933)](https://nodejs.org/en/)
+[![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&logo=express&logoColor=000000)](https://expressjs.com/)
+
+<div align="right">
+Between the technologies that I use:
+
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=Oracle&logoColor=ffffff)](https://www.java.com/en/)
 [![C Standar](https://img.shields.io/badge/C%20Standar-A8B9CC?style=flat-square&logo=C&logoColor=000000)](https://archive.org/details/TheCProgrammingLanguageFirstEdition)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://isocpp.org/)
-[![HTML5](https://img.shields.io/badge/HTML-FFFFFF?style=flat-square&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
 [![Typescript](https://img.shields.io/badge/Typescript-ffffff?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=ffffff)](https://dart.dev/)
 
 
 [![Azure](https://img.shields.io/badge/Microsoft%20Azure%20AZ9000-0078D4?style=flat-square&logo=microsoftazure&logoColor=ffffff)](https://azure.microsoft.com/en-US/)
-MongoDB
-NodeJs
-Express.js
+
+</div>
+
 
 
 ## What am I learing?
