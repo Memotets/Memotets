@@ -8,7 +8,12 @@ movile and desktop App maker, machine learning, image recognition, basics on UI/
 *<A simple mortal that have different personal interests such as music, videogames and social media as hobbies aside of work.>*
 
 ## What I Know?
-Main tecnhologies use:
+
+<div align="center">
+<img src="https://media.tenor.com/Oz17KlgG2GoAAAAi/peach-cat.gif" align="right" width="25%"> 
+
+  
+### Main tecnhologies:
 
 [![Javascript](https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML-FFFFFF?style=flat-square&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/es/docs/Web/HTML)
@@ -18,22 +23,36 @@ Main tecnhologies use:
 [![NodeJS](https://img.shields.io/badge/NodeJS-233056?style=flat-square&logo=nodedotjs&logoColor=339933)](https://nodejs.org/en/)
 [![Express.js](https://img.shields.io/badge/Express.js-FFFFFF?style=flat-square&logo=express&logoColor=000000)](https://expressjs.com/)
 
-<div align="right">
-Between the technologies that I use:
+[![Vue.js](https://img.shields.io/badge/Vue.js-1a1a1a?style=flat-square&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=FFFFFF)](https://getbootstrap.com/)
+[![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=flat-square&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
+
+[![Azure](https://img.shields.io/badge/Microsoft%20Azure%20AZ9000-0078D4?style=flat-square&logo=microsoftazure&logoColor=ffffff)](https://azure.microsoft.com/en-US/)
+
+
+<img src="https://media.tenor.com/9IsrqCRzmNwAAAAi/tyrannosaurus-dinosaur.gif"  align="left" width="20%">
+
+### Between the technologies that I use:
+
+
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=Oracle&logoColor=ffffff)](https://www.java.com/en/)
-[![C Standar](https://img.shields.io/badge/C%20Standar-A8B9CC?style=flat-square&logo=C&logoColor=000000)](https://archive.org/details/TheCProgrammingLanguageFirstEdition)
+[![C Standar](https://img.shields.io/badge/C%20Standar-A8B9CC?style=flat-square&logo=C&logoColor=000000)](https://www.open-std.org/jtc1/sc22/wg14/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://isocpp.org/)
 
 [![Typescript](https://img.shields.io/badge/Typescript-ffffff?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=ffffff)](https://dart.dev/)
+[![C Sharp](https://img.shields.io/badge/C%23-0175C2?style=flat-square&logo=csharp&logoColor=ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=ffffff)](https://dart.dev/)
+[![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4)](https://www.php.net/manual/es/intro-whatis.php)
 
-
-[![Azure](https://img.shields.io/badge/Microsoft%20Azure%20AZ9000-0078D4?style=flat-square&logo=microsoftazure&logoColor=ffffff)](https://azure.microsoft.com/en-US/)
+[![LaTex](https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=latex&logoColor=ffffff)](https://www.latex-project.org/) 
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)](https://laravel.com/)
+[![Angular](https://img.shields.io/badge/Angular-0D47A1?style=flat-square&logo=angular&logoColor=DD0031)](https://angular.io/)
 
 </div>
-
 
 
 ## What am I learing?
