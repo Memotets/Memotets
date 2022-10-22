@@ -32,25 +32,29 @@ movile and desktop App maker, machine learning, image recognition, basics on UI/
 
 <img src="https://media.tenor.com/9IsrqCRzmNwAAAAi/tyrannosaurus-dinosaur.gif"  align="left" width="20%">
 
-### Between the technologies that I use:
+### Between the technologies that I use/know:
 
 
 
+![3yrs or more](https://img.shields.io/badge/3yrs%20or%20more-000000?style=flat-square)
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=Oracle&logoColor=ffffff)](https://www.java.com/en/)
 [![C Standar](https://img.shields.io/badge/C%20Standar-A8B9CC?style=flat-square&logo=C&logoColor=000000)](https://www.open-std.org/jtc1/sc22/wg14/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](https://isocpp.org/)
+[![LaTex](https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=latex&logoColor=ffffff)](https://www.latex-project.org/) 
 
+![1 to 3yrs](https://img.shields.io/badge/1%20to%203yrs-000000?style=flat-square)
 [![Typescript](https://img.shields.io/badge/Typescript-ffffff?style=flat-square&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=ffffff)](https://dart.dev/)
-[![C Sharp](https://img.shields.io/badge/C%23-0175C2?style=flat-square&logo=csharp&logoColor=ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/)
-[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=ffffff)](https://dart.dev/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=ffffff)](https://www.djangoproject.com/)
 [![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4)](https://www.php.net/manual/es/intro-whatis.php)
-
-[![LaTex](https://img.shields.io/badge/LaTex-008080?style=flat-square&logo=latex&logoColor=ffffff)](https://www.latex-project.org/) 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)](https://laravel.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://laravel.com/)
+
+![1yr or less](https://img.shields.io/badge/1yr%20or%20less-000000?style=flat-square)
 [![Angular](https://img.shields.io/badge/Angular-0D47A1?style=flat-square&logo=angular&logoColor=DD0031)](https://angular.io/)
+[![C Sharp](https://img.shields.io/badge/C%23-0175C2?style=flat-square&logo=csharp&logoColor=ffffff)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=ffffff)](https://www.lua.org/)
 
 </div>
 
