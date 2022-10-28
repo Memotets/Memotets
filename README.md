@@ -1,8 +1,8 @@
 <h1 align="center">Hello there! Guillermo here🖖 <br><sub> ¯\_(ツ)_/¯ or @Memotets if you prefer ¯\_(ツ)_/¯ </sub></h1>
 <img src="https://media.tenor.com/NLSitkgRZHYAAAAi/pikachu-wave.gif" align="right" width="20%">
 
-## How am I?
-A computer systems engineering that is currenly looking for new opportunities in the field of IT and software development. Trained in distinguished areas of the field such as full-stack deveolping, 
+## Who am I?
+A computer systems engineering that is currenly looking for new opportunities in the field of IT and software development. Trained in distinguished areas of the field such as full-stack developing, 
 movile and desktop App maker, machine learning, image recognition, basics on UI/UX design and Manual Testing skills.
 
 *<A simple mortal that have different personal interests such as music, videogames and social media as hobbies aside of work.>*
