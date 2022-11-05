@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/NLSitkgRZHYAAAAi/pikachu-wave.gif" align="right" width="20%">
 
 <div align="center">
-  <a href="https://github.com/Gilberto-Guzman">
+  <a href="https://github.com/Memotets">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Memotets&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memotets&layout=compact&langs_count=7&theme=algolia"/>
 </div>
