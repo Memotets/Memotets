@@ -1,6 +1,12 @@
 <h1 align="center">Hello there! Guillermo here🖖 <br><sub> ¯\_(ツ)_/¯ or @Memotets if you prefer ¯\_(ツ)_/¯ </sub></h1>
 <img src="https://media.tenor.com/NLSitkgRZHYAAAAi/pikachu-wave.gif" align="right" width="20%">
 
+<div align="center">
+  <a href="https://github.com/Gilberto-Guzman">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Memotets&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Memotets&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
 ## Who am I?
 A computer system engineer that is currently looking for new opportunities in the field of IT and software development. Trained in distinguished areas of the field such as full stack developing, mobile and desktop App maker, machine learning, image recognition, basics on UI/UX design and Manual Testing skills.
 
