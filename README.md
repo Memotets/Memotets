@@ -65,11 +65,12 @@ A computer system engineer that is currently looking for new opportunities in th
 </div>
 
 
+<!---
 ## What am I learing?
 Currenly a "Traveler" of Microsoft Launch X LATAM program retaking the basics of Fullstack developing 
 
 
-<!---
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
